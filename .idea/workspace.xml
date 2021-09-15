@@ -2,10 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3eef748c-4eb2-4f8e-abbc-a9a4a242efb8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/SSAFY/IM_Prepare/Solution_SWEA_4047_영준이의카드카운팅.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SSAFY/IM_Prepare/Solution_SWEA_5356_의석이의세로로말해요.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SSAFY/IM_Prepare/Main_백준_2477_참외밭.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SSAFY/IM_Prepare/Solution_SWEA_11315_오목판정.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SSAFY/Main_백준_1600_말이되고픈원숭이.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SSAFY/Main_백준_2636_치즈_이혜민_136ms.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SSAFY/Solution_SWEA_3124_최소스패닝트리_이혜민.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exmple/META-INF/exmple.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exmple/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exmple/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exmple/SSAFY/IM_Prepare/Solution_SWEA_5356_의석이의세로로말해요.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exmple/SSAFY/IM_Prepare/Solution_SWEA_5356_의석이의세로로말해요.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SSAFY/Main_백준_1753_최단경로_이혜민_760ms.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SSAFY/Main_백준_1753_최단경로_이혜민_760ms.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,28 +50,35 @@
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="SSAFY" />
       <recent name="" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src" />
-      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution_SWEA_5356_의석이의세로로말해요">
-    <configuration name="Solution_SWEA_1984_중간평균값구하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SSAFY.IM_Prepare.Solution_SWEA_1984_중간평균값구하기" />
+  <component name="RunManager" selected="Application.Solution_SWEA_3124_최소스패닝트리_이혜민">
+    <configuration name="플로이드와샬" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="플로이드와샬" />
+      <module name="exmple" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main_백준_1600_말이되고픈원숭이" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SSAFY.Main_백준_1600_말이되고픈원숭이" />
       <module name="exmple" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SSAFY.IM_Prepare.*" />
+          <option name="PATTERN" value="SSAFY.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution_SWEA_2005_파스칼의삼각형" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SSAFY.IM_Prepare.Solution_SWEA_2005_파스칼의삼각형" />
+    <configuration name="Main_백준_2636_치즈_이혜민" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SSAFY.Main_백준_2636_치즈_이혜민" />
       <module name="exmple" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SSAFY.IM_Prepare.*" />
+          <option name="PATTERN" value="SSAFY.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution_SWEA_2007_패턴마디의길이" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SSAFY.IM_Prepare.Solution_SWEA_2007_패턴마디의길이" />
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SSAFY.Solution" />
       <module name="exmple" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SSAFY.IM_Prepare.*" />
+          <option name="PATTERN" value="SSAFY.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,25 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution_SWEA_4047_영준이의카드카운팅" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SSAFY.IM_Prepare.Solution_SWEA_4047_영준이의카드카운팅" />
+    <configuration name="Solution_SWEA_3124_최소스패닝트리_이혜민" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SSAFY.Solution_SWEA_3124_최소스패닝트리_이혜민" />
       <module name="exmple" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SSAFY.IM_Prepare.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution_SWEA_5356_의석이의세로로말해요" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SSAFY.IM_Prepare.Solution_SWEA_5356_의석이의세로로말해요" />
-      <module name="exmple" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="SSAFY.IM_Prepare.*" />
+          <option name="PATTERN" value="SSAFY.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Solution_SWEA_5356_의석이의세로로말해요" />
-        <item itemvalue="Application.Solution_SWEA_4047_영준이의카드카운팅" />
-        <item itemvalue="Application.Solution_SWEA_2007_패턴마디의길이" />
-        <item itemvalue="Application.Solution_SWEA_2005_파스칼의삼각형" />
-        <item itemvalue="Application.Solution_SWEA_1984_중간평균값구하기" />
+        <item itemvalue="Application.Solution_SWEA_3124_최소스패닝트리_이혜민" />
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.Main_백준_2636_치즈_이혜민" />
+        <item itemvalue="Application.Main_백준_1600_말이되고픈원숭이" />
+        <item itemvalue="Application.플로이드와샬" />
       </list>
     </recent_temporary>
   </component>
@@ -156,6 +155,8 @@
       <workItem from="1629379946809" duration="35601000" />
       <workItem from="1629379946809" duration="35289000" />
       <workItem from="1630222526279" duration="2274000" />
+      <workItem from="1631672947211" duration="1569000" />
+      <workItem from="1631680106898" duration="10096000" />
     </task>
     <servers />
   </component>
@@ -163,10 +164,12 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="533" y="173" key="#com.intellij.ide.util.MemberChooser" timestamp="1629793701701">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="2151" y="208" key="#com.intellij.ide.util.MemberChooser" timestamp="1631709581421">
+      <screen x="1440" y="0" width="1920" height="1080" />
     </state>
-    <state x="533" y="173" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1629793701701" />
+    <state x="2151" y="208" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1631709581421" />
+    <state x="533" y="173" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1631685066128" />
+    <state x="533" y="179" key="#com.intellij.ide.util.MemberChooser/0.23.1440.812@0.23.1440.812" timestamp="1631670482252" />
     <state x="458" y="238" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1624610939528">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -175,9 +178,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="486" y="342" width="467" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1440.900@0.0.1440.900" timestamp="1624610941051" />
-    <state x="361" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1629793847267">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="1921" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1631711804209">
+      <screen x="1440" y="0" width="1920" height="1080" />
     </state>
+    <state x="1921" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1631711804209" />
     <state x="361" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1440.900@0.0.1440.900" timestamp="1629793847267" />
     <state x="477" y="306" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1628754197211">
       <screen x="0" y="23" width="1440" height="812" />
@@ -199,51 +203,38 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1398" height="302" key="GridCell.Tab.-1.right/0.0.1440.900@0.0.1440.900" timestamp="1629361649853" />
-    <state width="1398" height="189" key="GridCell.Tab.0.bottom" timestamp="1630209854701"/>
-      <screen x="0" y="23" width="1440" height="812" />
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1630225432614">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1878" height="222" key="GridCell.Tab.0.bottom" timestamp="1631712297940">
+      <screen x="1440" y="0" width="1920" height="1080" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1630225432614" />
+    <state width="1878" height="222" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1631712297940" />
+    <state width="1398" height="222" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1631685578439" />
     <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.23.1440.810@0.23.1440.810" timestamp="1626170620780" />
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.23.1440.811@0.23.1440.811" timestamp="1626315272463" />
-    <state width="1398" height="189" key="GridCell.Tab.0.bottom/0.23.1440.812@0.23.1440.812" timestamp="1630209854701" />
-    <state width="1398" height="189" key="GridCell.Tab.0.center" timestamp="1630209854700"/>
-      <screen x="0" y="23" width="1440" height="812" />
     <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.23.1440.811@0.23.1440.811" timestamp="1630225363259" />
-    <state width="1398" height="189" key="GridCell.Tab.0.bottom/0.23.1440.812@0.23.1440.812" timestamp="1629875458447" />
-    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1630225432609">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1398" height="222" key="GridCell.Tab.0.bottom/0.23.1440.812@0.23.1440.812" timestamp="1631685542196" />
+    <state width="1878" height="222" key="GridCell.Tab.0.center" timestamp="1631712297938">
+      <screen x="1440" y="0" width="1920" height="1080" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1630225432609" />
+    <state width="1878" height="222" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1631712297938" />
+    <state width="1398" height="222" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1631685578438" />
     <state width="1398" height="245" key="GridCell.Tab.0.center/0.23.1440.810@0.23.1440.810" timestamp="1626170620779" />
-    <state width="1398" height="245" key="GridCell.Tab.0.center/0.23.1440.811@0.23.1440.811" timestamp="1626315272462" />
-    <state width="1398" height="189" key="GridCell.Tab.0.center/0.23.1440.812@0.23.1440.812" timestamp="1630209854700" />
-    <state width="1398" height="189" key="GridCell.Tab.0.left" timestamp="1630209854699"/>
-      <screen x="0" y="23" width="1440" height="812" />
     <state width="1398" height="245" key="GridCell.Tab.0.center/0.23.1440.811@0.23.1440.811" timestamp="1630225363257" />
-    <state width="1398" height="189" key="GridCell.Tab.0.center/0.23.1440.812@0.23.1440.812" timestamp="1629875458445" />
-    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1630225432606">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1398" height="222" key="GridCell.Tab.0.center/0.23.1440.812@0.23.1440.812" timestamp="1631685542195" />
+    <state width="1878" height="222" key="GridCell.Tab.0.left" timestamp="1631712297937">
+      <screen x="1440" y="0" width="1920" height="1080" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1630225432606" />
+    <state width="1878" height="222" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1631712297937" />
+    <state width="1398" height="222" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1631685578437" />
     <state width="1398" height="245" key="GridCell.Tab.0.left/0.23.1440.810@0.23.1440.810" timestamp="1626170620779" />
-    <state width="1398" height="245" key="GridCell.Tab.0.left/0.23.1440.811@0.23.1440.811" timestamp="1626315272462" />
-    <state width="1398" height="189" key="GridCell.Tab.0.left/0.23.1440.812@0.23.1440.812" timestamp="1630209854699" />
-    <state width="1398" height="189" key="GridCell.Tab.0.right" timestamp="1630209854701"/>
-      <screen x="0" y="23" width="1440" height="812" />
     <state width="1398" height="245" key="GridCell.Tab.0.left/0.23.1440.811@0.23.1440.811" timestamp="1630225363256" />
-    <state width="1398" height="189" key="GridCell.Tab.0.left/0.23.1440.812@0.23.1440.812" timestamp="1629875458444" />
-    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1630225432611">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1398" height="222" key="GridCell.Tab.0.left/0.23.1440.812@0.23.1440.812" timestamp="1631685542193" />
+    <state width="1878" height="222" key="GridCell.Tab.0.right" timestamp="1631712297939">
+      <screen x="1440" y="0" width="1920" height="1080" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1630225432611" />
+    <state width="1878" height="222" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1631712297939" />
+    <state width="1398" height="222" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1631685578438" />
     <state width="1398" height="245" key="GridCell.Tab.0.right/0.23.1440.810@0.23.1440.810" timestamp="1626170620780" />
-    <state width="1398" height="245" key="GridCell.Tab.0.right/0.23.1440.811@0.23.1440.811" timestamp="1626315272463" />
-    <state width="1398" height="189" key="GridCell.Tab.0.right/0.23.1440.812@0.23.1440.812" timestamp="1630209854701" />
     <state width="1398" height="245" key="GridCell.Tab.0.right/0.23.1440.811@0.23.1440.811" timestamp="1630225363258" />
-    <state width="1398" height="189" key="GridCell.Tab.0.right/0.23.1440.812@0.23.1440.812" timestamp="1629875458446" />
->>>>>>> 0719067e1d48808e8cfe20b81e42e126c4da3e11
+    <state width="1398" height="222" key="GridCell.Tab.0.right/0.23.1440.812@0.23.1440.812" timestamp="1631685542195" />
     <state width="1398" height="302" key="GridCell.Tab.1.bottom" timestamp="1629361635974">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -273,11 +264,12 @@
     </state>
     <state x="458" y="220" key="extract.method.dialog/0.0.1440.900@0.0.1440.900" timestamp="1628568869560" />
     <state x="458" y="221" key="extract.method.dialog/0.23.1440.812@0.23.1440.812" timestamp="1629255233846" />
-    <state x="378" y="207" width="837" height="550" key="find.popup" timestamp="1628827862004">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="1944" y="249" width="1116" height="825" key="find.popup" timestamp="1631711810333">
+      <screen x="1440" y="0" width="1920" height="1080" />
     </state>
+    <state x="1944" y="249" width="1116" height="825" key="find.popup/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1631711810333" />
     <state x="378" y="207" width="837" height="550" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1628827862004" />
-    <state x="378" y="210" width="837" height="550" key="find.popup/0.23.1440.812@0.23.1440.812" timestamp="1628649664992" />
+    <state x="378" y="210" width="837" height="550" key="find.popup/0.23.1440.812@0.23.1440.812" timestamp="1630283762308" />
     <state width="600" height="424" key="javadoc.popup" timestamp="1628486090671">
       <screen x="0" y="23" width="1440" height="812" />
     </state>
@@ -290,9 +282,10 @@
       <screen x="0" y="23" width="1440" height="812" />
     </state>
     <state x="385" y="194" key="run.anything.popup/0.23.1440.812@0.23.1440.812" timestamp="1629252662104" />
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1629879599922">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="385" y="200" width="670" height="610" key="search.everywhere.popup" timestamp="1631667948878">
+      <screen x="0" y="23" width="1440" height="812" />
     </state>
     <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1629879599922" />
+    <state x="385" y="200" width="670" height="610" key="search.everywhere.popup/0.23.1440.812@0.23.1440.812" timestamp="1631667948878" />
   </component>
 </project>
