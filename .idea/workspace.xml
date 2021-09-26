@@ -58,7 +58,28 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Example2">
+    <configuration name="Example2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Example2" />
+      <module name="exmple" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Example3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Example3" />
+      <module name="exmple" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Example5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Example5" />
+      <module name="exmple" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main_정올_1681_해밀턴순환회로_이혜민" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SSAFY.Main_정올_1681_해밀턴순환회로_이혜민" />
       <module name="exmple" />
@@ -126,6 +147,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Example5" />
+        <item itemvalue="Application.Example3" />
+        <item itemvalue="Application.Example2" />
         <item itemvalue="Application.Main_백준_17144_미세먼지안녕_이혜민_576ms" />
         <item itemvalue="Application.Main_백준_7576_토마토_나지엽" />
         <item itemvalue="Application.Main_백준_7576_토마토_이혜민_660ms" />
@@ -153,6 +177,9 @@
       <workItem from="1627204431969" duration="131574000" />
       <workItem from="1629379946809" duration="35601000" />
       <workItem from="1629379946809" duration="35289000" />
+      <workItem from="1630222526279" duration="2766000" />
+      <workItem from="1631335111051" duration="5798000" />
+      <workItem from="1632633874467" duration="90000" />
       <workItem from="1630222526279" duration="2274000" />
       <workItem from="1631672947211" duration="1569000" />
       <workItem from="1631680106898" duration="18220000" />
@@ -207,6 +234,34 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1398" height="302" key="GridCell.Tab.-1.right/0.0.1440.900@0.0.1440.900" timestamp="1629361649853" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1631354538855">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1631352736192" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.23.1440.810@0.23.1440.810" timestamp="1626170620780" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.23.1440.811@0.23.1440.811" timestamp="1631354538855" />
+    <state width="1398" height="189" key="GridCell.Tab.0.bottom/0.23.1440.812@0.23.1440.812" timestamp="1629875458447" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1631354538853">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1631352736190" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.23.1440.810@0.23.1440.810" timestamp="1626170620779" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.23.1440.811@0.23.1440.811" timestamp="1631354538853" />
+    <state width="1398" height="189" key="GridCell.Tab.0.center/0.23.1440.812@0.23.1440.812" timestamp="1629875458445" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1631354538853">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1631352736189" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.23.1440.810@0.23.1440.810" timestamp="1626170620779" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.23.1440.811@0.23.1440.811" timestamp="1631354538853" />
+    <state width="1398" height="189" key="GridCell.Tab.0.left/0.23.1440.812@0.23.1440.812" timestamp="1629875458444" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1631354538854">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1631352736190" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.23.1440.810@0.23.1440.810" timestamp="1626170620780" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.23.1440.811@0.23.1440.811" timestamp="1631354538854" />
+    <state width="1398" height="189" key="GridCell.Tab.0.right/0.23.1440.812@0.23.1440.812" timestamp="1629875458446" />
     <state width="1878" height="221" key="GridCell.Tab.0.bottom" timestamp="1632463652792">
       <screen x="1440" y="0" width="1920" height="1080" />
     </state>
