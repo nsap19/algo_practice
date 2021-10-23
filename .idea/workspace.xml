@@ -2,28 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3eef748c-4eb2-4f8e-abbc-a9a4a242efb8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/exmple/SSAFY/Main_백준_14502_연구소_이혜민_684ms.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/exmple/SSAFY/Main_백준_14502_연구소_이혜민_comb.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/exmple/SSAFY/Main_백준_9205_맥주마시면서걸어가기_이혜민_220ms.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/exmple/SSAFY/Rupee.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/exmple/SSAFY/Solution_SWEA_1263_사람네트워크2_이혜민_2759ms.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/exmple/SSAFY/Solution_SWEA_3307_최장증가부분수열_이혜민_127ms.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/exmple/SSAFY/Solution_SWEA_3307_최장증가부분수열_이혜민_147ms.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/exmple/SSAFY/Virus.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SSAFY/Main_백준_14502_연구소_이혜민_684ms.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SSAFY/Main_백준_14502_연구소_이혜민_comb.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SSAFY/Main_백준_17144_미세먼지안녕_이혜민_576ms.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SSAFY/Main_백준_4485_녹색옷입은애가젤다지_이혜민_240ms.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SSAFY/Main_백준_7576_토마토_이혜민_660ms.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SSAFY/Main_백준_9205_맥주마시면서걸어가기_이혜민_220ms.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SSAFY/Main_정올_1681_해밀턴순환회로_이혜민.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SSAFY/Solution_SWEA_1263_사람네트워크2_이혜민_2759ms.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SSAFY/Solution_SWEA_1767_프로세서연결하기_이혜민.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SSAFY/Solution_SWEA_3307_최장증가부분수열_이혜민_127ms.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SSAFY/Solution_SWEA_3307_최장증가부분수열_이혜민_147ms.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exmple/SSAFY/Node2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exmple/SSAFY/Solution.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -208,6 +187,7 @@
       <workItem from="1631799936689" duration="4847000" />
       <workItem from="1631838291485" duration="28309000" />
       <workItem from="1632458505786" duration="4243000" />
+      <workItem from="1634964538900" duration="45000" />
     </task>
     <servers />
   </component>
