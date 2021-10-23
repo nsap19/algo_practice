@@ -31,8 +31,8 @@ public class Main_백준_1600_말이되고픈원숭이 {
 
         K = Integer.parseInt(br.readLine()); //말처럼 움직일 수 있는 횟수
         st = new StringTokenizer(br.readLine(), " ");
-        H = Integer.parseInt(st.nextToken());
         W = Integer.parseInt(st.nextToken());
+        H = Integer.parseInt(st.nextToken());
         map = new int[H][W];
         visited = new int[K + 1][H][W];
         for (int i = 0; i <= K; i++) {
@@ -63,14 +63,34 @@ public class Main_백준_1600_말이되고픈원숭이 {
         }
 
         int answer = MAX;
-        for (int i = 0; i <=K; i++) {
-            if(visited[i][endR][endC]<answer)
+        for (int i = 0; i <= K; i++) {
+            if (visited[i][endR][endC] < answer)
                 answer = visited[i][endR][endC];
         }
         if (answer == MAX) System.out.println(-1);
         else System.out.println(answer);
 
 
+    }
+
+    private static void moveMonkey(int r, int c, int k, int cnt) {
+//        System.out.println(r + " " + c + " " + visited[k][r][c]);
+
+        int[] dr = {-1, 0, 1, 0};
+        int[] dc = {0, 1, 0, -1};
+        int nr, nc;
+        for (int i = 0; i < 4; i++) {
+            nr = r + dr[i];
+            nc = c + dc[i];
+            if (nr < 0 || nr >= H || nc < 0 || nc >= W) continue;
+            if (map[nr][nc] == 1) continue; //갈수없는 곳이면 넘어가기
+            if (visited[k][nr][nc] != MAX) continue; //방문했으면 넘어가기
+            if (visited[k][nr][nc] > cnt + 1) {
+                visited[k][nr][nc] = cnt + 1;
+                q.add(new Location(nr, nc, k, cnt + 1));
+            }
+
+        }
     }
 
     private static void moveHorse(int r, int c, int k, int cnt) {
@@ -93,23 +113,4 @@ public class Main_백준_1600_말이되고픈원숭이 {
         }
     }
 
-    private static void moveMonkey(int r, int c, int k, int cnt) {
-//        System.out.println(r + " " + c + " " + visited[k][r][c]);
-
-        int[] dr = {-1, 0, 1, 0};
-        int[] dc = {0, 1, 0, -1};
-        int nr, nc;
-        for (int i = 0; i < 4; i++) {
-            nr = r + dr[i];
-            nc = c + dc[i];
-            if (nr < 0 || nr >= H || nc < 0 || nc >= W) continue;
-            if (map[nr][nc] == 1) continue; //갈수없는 곳이면 넘어가기
-            if (visited[k][nr][nc] != MAX) continue; //방문했으면 넘어가기
-            if (visited[k][nr][nc] > cnt + 1) {
-                visited[k][nr][nc] = cnt + 1;
-                q.add(new Location(nr, nc, k, cnt + 1));
-            }
-
-        }
-    }
 }
