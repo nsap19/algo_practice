@@ -15,7 +15,7 @@ public class BOJ4195_친구네트워크 {
             if (!friends.containsKey(ap)) friends.put(ap, 1);
             if (!friends.containsKey(bp)) friends.put(bp, 1);
 
-            parents.put(b, ap);
+            parents.put(bp, ap);
             friends.put(ap, friends.get(ap) + friends.get(bp));
         }
         return friends.get(ap);
