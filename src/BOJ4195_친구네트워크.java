@@ -6,18 +6,19 @@ public class BOJ4195_친구네트워크 {
     static HashMap<String, String> parents;
     static HashMap<String, Integer> friends;
 
-    private static boolean union(String a, String b) {
+    private static int union(String a, String b) {
         String ap = find(a);
         String bp = find(b);
 
-        if (ap.equals(bp)) return false;
+        if (!ap.equals(bp)) {
 
-        if (!friends.containsKey(ap)) friends.put(ap, 1);
-        if (!friends.containsKey(bp)) friends.put(bp, 1);
+            if (!friends.containsKey(ap)) friends.put(ap, 1);
+            if (!friends.containsKey(bp)) friends.put(bp, 1);
 
-        parents.put(b, ap);
-        friends.put(ap, friends.get(ap) + friends.get(bp));
-        return true;
+            parents.put(b, ap);
+            friends.put(ap, friends.get(ap) + friends.get(bp));
+        }
+        return friends.get(ap);
     }
 
     private static String find(String a) {
@@ -43,13 +44,7 @@ public class BOJ4195_친구네트워크 {
                 if (!parents.containsKey(a)) parents.put(a, a);
                 if (!parents.containsKey(b)) parents.put(b, b);
 
-                int result = 0;
-
-                union(a,b);
-                String ap = find(a);
-                String bp = find(b);
-                result = friends.get(ap);
-
+                int result = union(a, b);
                 sb.append(result).append("\n");
             }
         }
